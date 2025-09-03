@@ -1,6 +1,6 @@
 # hello_world
 
-aplicatie flask minimalista hello_world pregatita pentru container & kubernetes. include endpoint-uri utile, meta-info (instance id, hostname, uptime) si o pagina html simpla. 
+mini aplicatie flask hello_world pentru container & kubernetes. include endpoint-uri utile, meta-info (instance id, hostname, uptime) si o pagina html simpla. 
 
 ## structura proiect
 ```
